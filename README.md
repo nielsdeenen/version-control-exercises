@@ -1,3 +1,4 @@
 # version-control-exercises
-First text
+1st text
 Second text
+Third text
